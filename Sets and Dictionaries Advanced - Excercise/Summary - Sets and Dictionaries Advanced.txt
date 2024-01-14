@@ -1,0 +1,9 @@
+HashSet / SortedSet - Като лист(предимно за contains, не повтаря елементи в себе си[ако въведем нещо много пъти, то ще бъде в сета само веднъж]) и е много бърз.
+(Хеширането - приема стринг и връща индекс, където трябва да се намира стринга[по формула)
+=> HashSet<string> name = new HashSet<string>();
+
+name.Add(1);
+name.Add(1);
+
+
+SortedSet & SortedDictionary  -  Black-Red Tree!

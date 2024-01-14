@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\bin\Debug\net6.0\GenericBox.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\bin\Debug\net6.0\GenericBox.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\bin\Debug\net6.0\GenericBox.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\bin\Debug\net6.0\GenericBox.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\bin\Debug\net6.0\GenericBox.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\refint\GenericBox.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\GenericBox.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericBox\obj\Debug\net6.0\ref\GenericBox.dll

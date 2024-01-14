@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\bin\Debug\net6.0\ListyIteratorEx.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\bin\Debug\net6.0\ListyIteratorEx.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\bin\Debug\net6.0\ListyIteratorEx.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\bin\Debug\net6.0\ListyIteratorEx.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\bin\Debug\net6.0\ListyIteratorEx.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\refint\ListyIteratorEx.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ListyIteratorEx.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\ListyIterator\obj\Debug\net6.0\ref\ListyIteratorEx.dll

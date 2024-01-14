@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6. JaggedArrayManipulator.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\6. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6. JaggedArrayManipulator.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+Stack<int>  -> Push, Pop, Peek (чинии - Lifo, last in first out)
+Queue<int> -> Enqueue, Dequeue, Peek (опашка, билети, светофар - Fifo, first in first out)
+
+
+^ - (x or - ексор) заменя число с друго[кодира го]
+
+100 ^ 157 = 249
+249 ^ 157 = 100
+100 ^ 157 ^ 157 = 100

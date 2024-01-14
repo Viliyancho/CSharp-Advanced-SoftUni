@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\bin\Debug\netcoreapp3.1\03. CustomMinFunction.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\03. CustomMinFunction\obj\Debug\netcoreapp3.1\03. CustomMinFunction.genruntimeconfig.cache

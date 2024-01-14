@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\bin\Debug\netcoreapp3.1\3. MaximalSum.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\3. MaximalSum\obj\Debug\netcoreapp3.1\3. MaximalSum.genruntimeconfig.cache

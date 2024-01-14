@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\bin\Debug\net6.0\Froggy.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\bin\Debug\net6.0\Froggy.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\bin\Debug\net6.0\Froggy.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\bin\Debug\net6.0\Froggy.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\bin\Debug\net6.0\Froggy.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\refint\Froggy.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\Froggy.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\Froggy\obj\Debug\net6.0\ref\Froggy.dll

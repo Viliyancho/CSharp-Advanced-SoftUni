@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\bin\Debug\net6.0\StackStructure.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\bin\Debug\net6.0\StackStructure.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\bin\Debug\net6.0\StackStructure.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\bin\Debug\net6.0\StackStructure.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\bin\Debug\net6.0\StackStructure.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\refint\StackStructure.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\StackStructure.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\IteratorsAndComparatorsExcercise\StackStructure\obj\Debug\net6.0\ref\StackStructure.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Streams, Files and Directories - Excercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

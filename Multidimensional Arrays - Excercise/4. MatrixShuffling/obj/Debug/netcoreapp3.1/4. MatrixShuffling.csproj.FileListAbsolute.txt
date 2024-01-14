@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\bin\Debug\netcoreapp3.1\4. MatrixShuffling.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Multidimensional Arrays - Excercise\4. MatrixShuffling\obj\Debug\netcoreapp3.1\4. MatrixShuffling.genruntimeconfig.cache

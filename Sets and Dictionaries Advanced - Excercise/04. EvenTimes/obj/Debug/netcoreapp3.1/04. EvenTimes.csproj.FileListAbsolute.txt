@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Excercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.genruntimeconfig.cache

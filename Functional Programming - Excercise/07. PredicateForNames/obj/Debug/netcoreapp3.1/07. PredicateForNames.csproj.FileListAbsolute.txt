@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\bin\Debug\netcoreapp3.1\07. PredicateForNames.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\07. PredicateForNames\obj\Debug\netcoreapp3.1\07. PredicateForNames.genruntimeconfig.cache

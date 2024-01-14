@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethod.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethod.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethod.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethod.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethod.dll

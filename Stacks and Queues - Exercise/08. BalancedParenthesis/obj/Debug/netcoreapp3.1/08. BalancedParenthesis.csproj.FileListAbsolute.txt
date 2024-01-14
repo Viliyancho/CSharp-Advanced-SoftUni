@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\bin\Debug\netcoreapp3.1\08. BalancedParenthesis.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Stacks and Queues - Exercise\08. BalancedParenthesis\obj\Debug\netcoreapp3.1\08. BalancedParenthesis.genruntimeconfig.cache

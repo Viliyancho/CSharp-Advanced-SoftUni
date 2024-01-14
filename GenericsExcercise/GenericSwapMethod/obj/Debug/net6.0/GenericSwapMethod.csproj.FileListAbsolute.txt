@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\refint\GenericSwapMethod.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\GenericsExcercise\GenericSwapMethod\obj\Debug\net6.0\ref\GenericSwapMethod.dll

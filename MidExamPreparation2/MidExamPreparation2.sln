@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbThePeaks", "MidExamPreparation2\ClimbThePeaks.csproj", "{F09C3C30-4E9C-4098-A4F2-7BD91B03707B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavyBattle", "NavyBattle\NavyBattle.csproj", "{EA599418-2BB0-4903-9B18-15DDD754CB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09C3C30-4E9C-4098-A4F2-7BD91B03707B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09C3C30-4E9C-4098-A4F2-7BD91B03707B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09C3C30-4E9C-4098-A4F2-7BD91B03707B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09C3C30-4E9C-4098-A4F2-7BD91B03707B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA599418-2BB0-4903-9B18-15DDD754CB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA599418-2BB0-4903-9B18-15DDD754CB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA599418-2BB0-4903-9B18-15DDD754CB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA599418-2BB0-4903-9B18-15DDD754CB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D134AD44-4BFE-4426-8ED7-D625B36267D6}
+	EndGlobalSection
+EndGlobal

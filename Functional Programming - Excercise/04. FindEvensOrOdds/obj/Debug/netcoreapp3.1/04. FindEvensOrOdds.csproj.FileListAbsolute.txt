@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\04. FindEvensOrOdds\obj\Debug\netcoreapp3.1\04. FindEvensOrOdds.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\04. FindEvensOrOdds\obj\Debug\netcoreapp3.1\04. FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\04. FindEvensOrOdds\obj\Debug\netcoreapp3.1\04. FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\04. FindEvensOrOdds\obj\Debug\netcoreapp3.1\04. FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\04. FindEvensOrOdds\obj\Debug\netcoreapp3.1\04. FindEvensOrOdds.csproj.CoreCompileInputs.cache

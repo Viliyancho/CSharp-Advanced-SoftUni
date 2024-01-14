@@ -1,0 +1,19 @@
+StreamReader reader = new StreamReader("../../../input.txt")
+string a = reader.ReadToEnd(цялото)/Read(един символ)/ReadLine(един ред);
+Console.WriteLine(a); - отива на конзолата
+
+StreamWriter writer= new StreamWriter("../../../output.txt")
+writer.Write(Console.ReadLine());
+отива във файла output.txt
+
+StreamWriter & StreamReader & FileStream- Класове със създаване на обекти
+File и FileInfo & Directory & Path & Environment- спомагателени класове с директно използване на методите му
+
+Директории - папки
+Файлове - всичко останало
+
+
+!!!Ако даден клас е наследил iDisposable - трябва да се затвори с Close() или да има using, за да може Garbage Collector-a
+да може да изтрие ненунжната информация след това!!!
+
+iDisposable - i-то е интерфейс и се имплементира, а класовете се наследяват

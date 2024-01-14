@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\bin\Debug\netcoreapp3.1\08. ListOfPredicates.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\08. ListOfPredicates\obj\Debug\netcoreapp3.1\08. ListOfPredicates.genruntimeconfig.cache

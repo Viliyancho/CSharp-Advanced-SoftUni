@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.exe
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\bin\Debug\netcoreapp3.1\09. PredicateParty!.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.dll
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.pdb
+C:\Users\Admin\Documents\SoftUni\C# Advanced\Functional Programming - Excercise\09. PredicateParty!\obj\Debug\netcoreapp3.1\09. PredicateParty!.genruntimeconfig.cache
